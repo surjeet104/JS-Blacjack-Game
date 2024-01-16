@@ -71,3 +71,7 @@ function getRandomNumber(){
         return randomNumber;
     }
 }
+
+
+const a=1;
+console.log(a);
