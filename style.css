@@ -1,0 +1,36 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("images/green-geometric-background-patricks-day-colors_24908-58471.avif");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 100px;
+    color: goldenrod;
+}
+
+#msg {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 300px;
+    font-size: 50px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+p{
+    font-size: 50px;
+}
